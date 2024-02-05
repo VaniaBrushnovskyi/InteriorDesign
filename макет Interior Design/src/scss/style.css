@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #585454;
+  max-width: 1920px;
+}
+
+#content {
+  width: 1400px;
+}
+
+.switch_btn__left .vector_left {
+  background-color: #fff;
+}/*# sourceMappingURL=style.css.map */
